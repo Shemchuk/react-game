@@ -1,0 +1,13 @@
+.board {
+  display: flex;
+  flex-flow: row wrap;
+  width: $board-width;
+  height: $board-height;
+  background-color: $color-board;
+  border: 2px solid $color-board-border;
+  box-sizing: content-box;
+}
+
+button {
+  padding: 1rem 2rem;
+}
