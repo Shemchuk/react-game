@@ -13,3 +13,5 @@ export const DIRECTION_UP = 38;
 export const DIRECTION_DOWN = 40;
 
 export const FIELD_SIZE = 20;
+export const LOOP_TIME = 200; //500 by default
+export const TIME_STEP = 20;
