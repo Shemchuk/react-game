@@ -1,0 +1,12 @@
+.info-block {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 1rem;
+  .info-block__text {
+    font-size: 1.4rem;
+    padding: 0 1rem;
+  }
+  .roundTime {
+    width: 7rem;
+  }
+}
